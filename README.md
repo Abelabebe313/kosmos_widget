@@ -3,8 +3,8 @@
 ```yaml
 asalema_widgets:
     git:
-      url: https://gitlab+deploy-token-1007631:ydwGsE9wyZAfjftysgRN@gitlab.com/KosmosDigital/kosmos_widget.git
-      ref: master
+      url: https://github.com/Abelabebe313/kosmos_widget.git
+      ref: main
 ````
 # add this to Your main.dart
 
